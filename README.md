@@ -19,7 +19,7 @@ A user is deemed **Eligible** if all of the following conditions are met simulta
 * **Ticket Type:** `VIP`.
 * **Account Status:** Active (`is_active = True`).
 
-If eligible, an additional $50$ points are added to the baseline $100$ points.
+If eligible, an additional $50$ points are added to the baseline $100 points.
 
 ## Features
 * **Robust Input Validation:** Uses `try-except` blocks to handle invalid text or decimal inputs for age gracefully.
